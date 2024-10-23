@@ -1,0 +1,5 @@
+name = input("Hello, What your name?")
+city = input("What city did you grow up in?")
+ps = input("Give me the name of a pet.")
+print("Here ya go.")
+print(ps + city)
